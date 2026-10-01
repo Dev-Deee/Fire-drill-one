@@ -1,0 +1,14 @@
+# added during cleanup
+*.class
+__pycache__/
+*.pyc
+target/
+out/
+node_modules/
+.next/
+tmp/
+*.bak
+.idea/
+*.iml
+.DS_Store
+config.bat
