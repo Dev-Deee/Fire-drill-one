@@ -11,4 +11,4 @@ tmp/
 .idea/
 *.iml
 .DS_Store
-config.bat
+.env
